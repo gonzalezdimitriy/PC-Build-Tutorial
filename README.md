@@ -1,9 +1,8 @@
-# <h1>Active Directory Home Lab</h1>
-
+<h1>JActive Directory Home Lab</h1>
 
 
 <h2>Description</h2>
-In the lab we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab helped develop my understanding of how active directory and windows networking works, I hope it can do the same for you!!
+In this lab I'm going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab helped to develop my understanding on how active directory and windows netoworking works, and I hope it can do the same for you !
 <br />
 
 
@@ -15,12 +14,12 @@ In the lab we're going to walk through how to create an Active Directory home la
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- Server 2019
+- <b>Windows Server 2019</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download Oracle VM Virtual box: <br/>
+Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
