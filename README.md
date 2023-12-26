@@ -29,7 +29,7 @@ I began by wiping all the drives, disassembling, and thoroughly cleaning my comp
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Download Oracle VM Virtual Box: <br/>
+PC Parts: <br/>
 <img src="https://i.imgur.com/9YYOpZo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
