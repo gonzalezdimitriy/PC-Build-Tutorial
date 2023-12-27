@@ -30,7 +30,7 @@ I began by wiping all the drives, disassembling, and thoroughly cleaning my comp
 
 <p align="center">
 PC Parts: <br/>
-<img src="https://i.imgur.com/9YYOpZo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VoR6Gso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
