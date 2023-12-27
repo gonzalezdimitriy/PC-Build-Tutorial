@@ -41,12 +41,12 @@ Step Two : Install CPU Cooler <br/>
 <img src="https://i.imgur.com/q2yLAL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Three: Install RAM  <br/>
+<img src="https://i.imgur.com/xCBQgDU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Four: Install SSD into Case (Varies between case)  <br/>
+<img src="https://i.imgur.com/wa5vgH9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
