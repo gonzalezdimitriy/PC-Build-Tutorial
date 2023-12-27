@@ -37,8 +37,8 @@ Step One: Install CPU  <br/>
 <img src="https://i.imgur.com/KYImbNQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Two : Install CPU Cooler <br/>
+<img src="https://i.imgur.com/q2yLAL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
