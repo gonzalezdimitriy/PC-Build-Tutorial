@@ -49,12 +49,12 @@ Step Four: Install SSD into Case (Varies between case)  <br/>
 <img src="https://i.imgur.com/wa5vgH9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/9fPrz6u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step Five: Install Motherboard into Case via Screws  <br/>
+<img src="https://i.imgur.com/nu5KEAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
