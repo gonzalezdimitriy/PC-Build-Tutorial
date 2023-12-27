@@ -55,6 +55,22 @@ Step Four: Install SSD into Case (Varies between case)  <br/>
 <br />
 Step Five: Install Motherboard into Case via Screws  <br/>
 <img src="https://i.imgur.com/nu5KEAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Six: Install PSU into Case via screws  <br/>
+<img src="https://i.imgur.com/U3HA0yO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Seven: Wire Cables Through to Front , Cable Manage, and Plug in SATA Cable into SSD  <br/>
+<img src="https://i.imgur.com/lPXZFMm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Eight: Plug in Case Headers & SATA Cables <br/>
+<img src="https://i.imgur.com/GvOdObw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Nine: Install the 24-pin Connector to Give the Motherboad Power <br/>
+<img src="https://i.imgur.com/fqpn3Kj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
