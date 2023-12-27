@@ -33,8 +33,8 @@ PC Parts: <br/>
 <img src="https://i.imgur.com/VoR6Gso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step One: Install CPU  <br/>
+<img src="https://i.imgur.com/KYImbNQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
