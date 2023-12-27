@@ -71,6 +71,22 @@ Step Eight: Plug in Case Headers & SATA Cables <br/>
 <br />
 Step Nine: Install the 24-pin Connector to Give the Motherboad Power <br/>
 <img src="https://i.imgur.com/fqpn3Kj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Ten: Install the 8-pin Connector to give the CPU Power <br/>
+<img src="https://i.imgur.com/nV3r2JG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Eleven: Install the 3-pin Connectos to power on the Case Fans, CPU Cooler, and the CPU Coolers RGB <br/>
+<img src="https://i.imgur.com/IDkWFk7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Twelve: Install the GPU and plug in the 8-Pin(6+2-Pin) <br/>
+<img src="https://i.imgur.com/h1pJAQT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Thirteen: Power on the PC to test <br/>
+<img src="https://i.imgur.com/Fj0AloL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
