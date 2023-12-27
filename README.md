@@ -87,6 +87,18 @@ Step Twelve: Install the GPU and plug in the 8-Pin(6+2-Pin) <br/>
 <br />
 Step Thirteen: Power on the PC to test <br/>
 <img src="https://i.imgur.com/Fj0AloL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Fourteen: Plug in Windows 11 USB and change Boot Priority to USB First
+<img src="https://i.imgur.com/B5iVwl8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Fifteen: Follow On-Screen Steps to Download Windows 11
+<img src="https://i.imgur.com/XUnO87F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Step Sixteen: Windows is successfully installed !!
+<img src="https://i.imgur.com/bY606v8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
