@@ -89,7 +89,7 @@ Step Thirteen: Power on the PC to test <br/>
 <img src="https://i.imgur.com/Fj0AloL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Step Fourteen: Plug in Windows 11 USB and change Boot Priority to USB First
+Step Fourteen: Plug in Windows 11 USB and change Boot Priority to USB First, then restart PC
 <img src="https://i.imgur.com/B5iVwl8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
